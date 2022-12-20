@@ -1,0 +1,51 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/akneiling/Turing/3module/projects/pokemon_finder/spec/factories/pokemon.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/akneiling/Turing/3module/projects/pokemon_finder/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/akneiling/Turing/3module/projects/pokemon_finder/app/services/pokemon_service.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1671503124
+  }
+}

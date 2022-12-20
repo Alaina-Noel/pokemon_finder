@@ -1,0 +1,6 @@
+<h1>All Pokemon</h1>
+  <p><%= button_to 'sort alphabetically', method: :get, params: { sort: 'alpha_sort' } %></p>
+  <ul><% @pokemon.each do |pokemon| %>
+    <li><%= pokemon.name.capitalize %></li>
+  <% end %>
+</ul>
